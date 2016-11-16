@@ -1,2 +1,4 @@
 # Ignore JPEG Files
 *.jpg
+# ignore jupyter notebook folder
+.ipynb_checkpoints
